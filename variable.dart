@@ -9,6 +9,10 @@ void main() {
   var A = "Wednesday";
 
   //print our variables
+  /* 
+  MY DART CODE
+  THIS IS MY JOURNEY IN CODING
+  */
   print(school);
   print(total);
   print(GPA);
