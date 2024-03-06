@@ -5,6 +5,8 @@ void main() {
   double GPA = 4.0;
   num year = 2024;
   bool ismarried = true;
+  var a = "Thursday";
+  var A = "Wednesday";
 
   //print our variables
   print(school);
@@ -12,4 +14,6 @@ void main() {
   print(GPA);
   print(year);
   print(ismarried);
+  print(a);
+  print(A);
 }
