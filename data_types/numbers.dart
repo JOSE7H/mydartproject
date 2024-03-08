@@ -14,5 +14,12 @@ void main() {
   print("num 4 is $num4");
   print("sum is $sum");
 
-  //for subtraction
+  //for arithmetic operation
+  num subtract = num1 - num3;
+  num mul = num1 * num3;
+  num div = num1 / num3;
+  //printing arithmetic
+  print("the differene is $subtract");
+  print("multiplication is $mul");
+  print("division is $div");
 }
